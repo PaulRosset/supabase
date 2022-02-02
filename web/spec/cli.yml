@@ -151,6 +151,9 @@ pages:
 
       Usage:
         supabase db remote set <remote database url>
+        
+      Example:
+        supabase db remote set postgresql://postgres:[YOUR-PASSWORD]@db.azeazeiqsdiqswdsqdxc.supabase.co:5432/postgres
       ```
 
   supabase db remote commit:
